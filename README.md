@@ -72,3 +72,14 @@ The system helps businesses manage products, stock, purchases, sales, sellers, a
 ---
 
 ## 📂 Project Structure
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+<img src="screenshots/login.png" width="600"/>
+
+### 🏠 Dashboard
+<img src="screenshots/dashboard.png" width="600"/>
+
+### 🛒 Manage Products
+<img src="screenshots/products.png" width="600"/>
